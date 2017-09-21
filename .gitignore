@@ -1,0 +1,6 @@
+# Ignore .txt, build and executable files
+obj/
+*.txt
+cananalyse
+canfilter
+canfreq
